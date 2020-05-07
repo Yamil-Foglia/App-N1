@@ -1,0 +1,30 @@
+
+.background-img {
+  //--background: url(../../assets/chat.jpg);
+  //--background:rgb(172, 172, 172);
+  //--background:linear-gradient(rgb(75, 186, 231), rgb(7, 246, 146));
+  //--background: rgb(75, 186, 231);
+  --background: #6475ab;
+}
+
+.bt-stile {
+  margin-top: -4px;
+  height: 50%;
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+.background-color {
+  --background:rgb(151, 151, 151);
+   --color:rgb(255, 255, 255);
+ }
+
+ .t-color {
+   margin-top: -4rem;
+    --background:#6475ab;
+    --color:rgba(255, 255, 255, 0.514);
+}
+.placeholder-text {
+  --placeholder-color:rgb(251, 251, 251);
+  text-align: center;
+}
